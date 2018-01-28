@@ -1,0 +1,100 @@
+announce route 12.3.194.0/24 origin IGP as-path [1239 6347 ] med 59 community [1239:999 1239:1000 1239:1015] next-hop 144.228.241.81
+announce route 12.4.97.0/24 origin IGP as-path [3130 7018 1239 14452 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.4.196.0/22 origin IGP as-path [3130 7018 12163 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.5.144.0/24 origin IGP as-path [3130 7018 19724 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.6.102.0/24 origin IGP as-path [3130 7018 11532 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.6.111.0/24 origin IGP as-path [3130 7018 11532 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.6.206.0/24 origin IGP as-path [1239 20357 ] med 59 community [1239:999 1239:1000 1239:1015] next-hop 144.228.241.81
+announce route 12.7.216.0/21 origin IGP as-path [3356 3561 3908 10827 7462 ] med 0 community [209:209 209:2083 3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2009 3561:900 3908:900] next-hop 209.244.2.115
+announce route 12.8.184.0/24 origin IGP as-path [3130 7018 10937 10937 10937 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.9.138.0/24 origin IGP as-path [3130 7018 14990 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.10.150.0/24 origin IGP as-path [3130 7018 19305 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.10.196.0/24 origin IGP as-path [3130 7018 701 10207 9430 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.10.209.0/24 origin IGP as-path [3130 7018 701 10207 7633 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.11.138.0/24 origin IGP as-path [1239 7843 16425 ] med 56 community [1239:999 1239:1000 1239:1015] next-hop 144.228.241.81
+announce route 12.13.56.0/24 origin IGP as-path [3130 7018 17348 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.13.78.0/24 origin IGP as-path [3356 1239 13578 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2001] next-hop 209.244.2.115
+announce route 12.13.224.0/19 origin IGP as-path [3130 7018 196 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.13.246.0/23 origin IGP as-path [3130 7018 196 ] med 0 atomic-aggregate aggregator (196:144.116.240.65) community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.14.35.0/24 origin IGP as-path [3356 701 11810 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2008] next-hop 209.244.2.115
+announce route 12.14.237.0/24 origin IGP as-path [3130 7018 13815 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.16.18.0/24 origin IGP as-path [3356 209 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2008] next-hop 209.244.2.115
+announce route 12.16.76.0/23 origin IGP as-path [3130 7018 17181 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.16.160.0/24 origin IGP as-path [3130 7018 11532 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.16.188.0/24 origin IGP as-path [3130 7018 11532 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.17.90.0/24 origin IGP as-path [3130 7018 20154 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.18.76.0/24 origin IGP as-path [3356 1 13471 ] med 0 community [3356:3 3356:80 3356:575 3356:666 3356:668 3356:681 3356:2001] next-hop 209.244.2.115
+announce route 12.18.155.0/24 origin IGP as-path [3130 7018 16504 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.18.217.0/24 origin IGP as-path [3130 7018 11741 11741 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.19.208.0/24 origin IGP as-path [1239 11358 ] med 40 community [1239:999 1239:1000 1239:1005] next-hop 144.228.241.81
+announce route 12.20.66.0/23 origin IGP as-path [3356 3561 11589 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2006 3561:900] next-hop 209.244.2.115
+announce route 12.20.158.0/23 origin IGP as-path [3130 7018 1239 14452 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.20.229.0/24 origin IGP as-path [3130 7018 19004 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.21.202.0/24 origin IGP as-path [3130 7018 11090 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.21.217.0/24 origin IGP as-path [3130 7018 11532 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.21.223.0/24 origin IGP as-path [3130 7018 11532 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.22.193.0/24 origin IGP as-path [3356 701 6410 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2008] next-hop 209.244.2.115
+announce route 12.23.66.0/23 origin IGP as-path [3130 7018 15305 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.23.78.0/24 origin IGP as-path [3356 3561 3908 ] med 0 community [209:209 209:8148 3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2009 3561:900 3908:900] next-hop 209.244.2.115
+announce route 12.23.194.0/24 origin IGP as-path [1239 14021 ] med 39 community [1239:999 1239:1000 1239:1005] next-hop 144.228.241.81
+announce route 12.24.108.0/22 origin IGP as-path [3356 1239 4323 20303 20303 20303 20303 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2001] next-hop 209.244.2.115
+announce route 12.24.228.0/22 origin IGP as-path [3356 1239 11101 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2001] next-hop 209.244.2.115
+announce route 12.25.105.0/24 origin IGP as-path [3130 7018 12116 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.25.206.0/24 origin IGP as-path [1239 10910 10910 11908 11908 11908 11908 10530 ] med 56 community [1239:999 1239:1000 1239:1015] next-hop 144.228.241.81
+announce route 12.25.241.0/24 origin IGP as-path [3130 7018 14689 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.26.86.0/24 origin IGP as-path [8121 6461 701 13758 ] community [6461:5997] next-hop 199.74.221.1
+announce route 12.26.144.0/23 origin INCOMPLETE as-path [3130 7018 12104 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.27.42.0/24 origin IGP as-path [3130 7018 11101 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.27.90.0/24 origin IGP as-path [5650 3561 7018 14906 ] next-hop 208.186.154.35
+announce route 12.27.223.0/24 origin IGP as-path [3356 701 12261 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2008] next-hop 209.244.2.115
+announce route 12.29.101.0/24 origin IGP as-path [3130 7018 6307 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.29.145.0/24 origin IGP as-path [3130 7018 701 11418 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.29.150.0/24 origin IGP as-path [3130 7018 701 11418 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.30.0.0/23 origin IGP as-path [3130 7018 12082 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.30.159.0/24 origin IGP as-path [3130 7018 16609 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.30.228.0/22 origin IGP as-path [1239 6598 4039 12223 ] med 85 community [1239:999 1239:1000 1239:1017] next-hop 144.228.241.81
+announce route 12.31.95.0/24 origin IGP as-path [3130 7018 701 3901 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.31.159.0/24 origin IGP as-path [3130 7018 20457 ] med 0 atomic-aggregate aggregator (20457:216.170.188.26) community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.32.2.0/24 origin IGP as-path [3356 1239 11169 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2006] next-hop 209.244.2.115
+announce route 12.32.90.0/24 origin IGP as-path [3130 7018 10788 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.32.241.0/24 origin IGP as-path [3130 7018 14372 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.33.123.0/24 origin IGP as-path [3356 2548 16679 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2009] next-hop 209.244.2.115
+announce route 12.34.47.0/24 origin IGP as-path [3356 1239 22389 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2001] next-hop 209.244.2.115
+announce route 12.34.137.0/24 origin IGP as-path [293 701 18655 ] next-hop 134.55.20.229
+announce route 12.34.233.0/24 origin IGP as-path [3356 1239 14289 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2008] next-hop 209.244.2.115
+announce route 12.35.114.0/24 origin IGP as-path [3356 7018 14880 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2001] next-hop 209.244.2.115
+announce route 12.36.77.0/24 origin IGP as-path [3356 701 14414 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2008] next-hop 209.244.2.115
+announce route 12.36.160.0/22 origin IGP as-path [3130 7018 14065 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.37.27.0/24 origin IGP as-path [3130 7018 22027 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.37.113.0/24 origin IGP as-path [3130 7018 10409 10409 10409 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.38.48.0/22 origin IGP as-path [3130 7018 18627 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.38.145.0/24 origin IGP as-path [3130 7018 20061 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.39.65.0/24 origin IGP as-path [3130 7018 13524 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.40.114.0/24 origin IGP as-path [3130 7018 18580 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.40.190.0/24 origin IGP as-path [3356 701 7260 3599 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2001] next-hop 209.244.2.115
+announce route 12.41.50.0/24 origin INCOMPLETE as-path [3130 7018 15009 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.41.162.0/23 origin IGP as-path [3356 14039 ] med 0 community [3356:3 3356:100 3356:123 3356:575 3356:2004] next-hop 209.244.2.115
+announce route 12.41.194.0/23 origin IGP as-path [3130 7018 14685 ] med 0 atomic-aggregate aggregator (14685:12.41.194.240) community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.42.51.0/24 origin IGP as-path [1239 10910 10910 6253 ] med 56 atomic-aggregate aggregator (6253:12.126.166.246) community [1239:999 1239:1000 1239:1015] next-hop 144.228.241.81
+announce route 12.42.130.0/24 origin IGP as-path [3130 7018 15123 15123 15123 15123 15123 15123 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.42.240.0/23 origin IGP as-path [1239 16631 16631 16631 17054 13552 ] med 39 community [1239:999 1239:1000 1239:1005] next-hop 144.228.241.81
+announce route 12.43.144.0/20 origin IGP as-path [3130 7018 16711 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.44.243.0/24 origin IGP as-path [1239 15062 ] med 39 community [1239:999 1239:1000 1239:1005] next-hop 144.228.241.81
+announce route 12.45.134.0/24 origin IGP as-path [3130 7018 18586 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.46.144.0/21 origin IGP as-path [3130 7018 16924 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.47.82.0/24 origin IGP as-path [3356 701 19357 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2008] next-hop 209.244.2.115
+announce route 12.47.220.0/24 origin INCOMPLETE as-path [3130 7018 21872 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.64.192.0/18 origin IGP as-path [3130 7018 17227 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.65.128.0/18 origin IGP as-path [3356 7018 17233 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2003] next-hop 209.244.2.115
+announce route 12.67.1.0/24 origin IGP as-path [3130 7018 4264 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.96.40.0/22 origin IGP as-path [3130 7018 17027 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.96.217.0/24 origin IGP as-path [3356 701 16810 21754 ] med 0 atomic-aggregate aggregator (21754:192.168.0.1) community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2001] next-hop 209.244.2.115
+announce route 12.101.254.0/23 origin INCOMPLETE as-path [19669 6461 1740 ] community [6461:5997] next-hop 216.220.176.1
+announce route 12.104.96.0/24 origin IGP as-path [3130 7018 17011 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.105.138.0/24 origin IGP as-path [3130 7018 20013 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.106.16.0/24 origin IGP as-path [3130 7018 20014 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.106.201.0/24 origin IGP as-path [3356 209 18647 18647 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2008] next-hop 209.244.2.115
+announce route 12.107.44.0/22 origin IGP as-path [3130 7018 19271 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.107.160.0/22 origin IGP as-path [3130 7018 22027 ] med 0 community [3130:200 3130:300] next-hop 147.28.255.2
+announce route 12.107.239.0/24 origin IGP as-path [3356 701 12261 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:680 3356:2008] next-hop 209.244.2.115
+announce route 12.108.212.0/24 origin IGP as-path [3356 3561 22180 ] med 0 community [3356:3 3356:86 3356:575 3356:666 3356:668 3356:681 3356:2008 3561:900] next-hop 209.244.2.115
